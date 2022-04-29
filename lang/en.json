@@ -1,10 +1,10 @@
 {
     "VTM5E.Name": "Name",
-    "VTM5E.Clan": "Clan",
-    "VTM5E.Predator": "Predator",
+    "VTM5E.Clan": "Legacy",
+    "VTM5E.Predator": "Kith",
 
-    "VTM5E.Vampire": "Vampire",
-    "VTM5E.Coterie": "Coterie",
+    "VTM5E.Vampire": "Changeling",
+    "VTM5E.Coterie": "Motley",
     "VTM5E.Ghoul": "Ghoul",
     "VTM5E.Mortal": "Mortal",
     "VTM5E.Domitor": "Domitor",
@@ -14,7 +14,7 @@
     "VTM5E.WillpowerReroll": "Willpower Reroll",
     "VTM5E.WillpowerFull": "Willpower is fully damaged, cannot damage it further.",
     "VTM5E.Exp": "Exp",
-    "VTM5E.Humanity": "Humanity",
+    "VTM5E.Humanity": "Wyrd",
     "VTM5E.Hunger": "Hunger",
     "VTM5E.HungerFull": "Already at maximum Hunger, cannot increase it further.",
     "VTM5E.Rouse": "Rouse",
@@ -25,7 +25,7 @@
     "VTM5E.Superficial": "Superficial",
     "VTM5E.Aggravated": "Aggravated",
     "VTM5E.Value": "Value",
-    "VTM5E.Stains": "Stains",
+    "VTM5E.Stains": "Banality",
     "VTM5E.Max": "Max",
 
     "VTM5E.Stats": "Stats",
